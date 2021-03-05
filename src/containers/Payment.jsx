@@ -11,7 +11,7 @@ const Payment = () => {
 
   const paypalOptions = {
     clientId:
-      'access_token$sandbox$z3fjvbxzxkvjczfy$bc261ef8e0455a41c36bbf9d04b6d73e',
+      'AfBx8gbhamT-Nr_pC4JW14kejAvdlvfaT5CBaE02Bi6DwnQi2NwkVn1Sd62NS9MkTq9JuO3iudrKY5Vj',
     intent: 'capture',
     currency: 'USD',
   }
@@ -29,7 +29,6 @@ const Payment = () => {
   }
 
   const handlePaymentSuccess = (data) => {
-    console.log(data)
     if (data.status === 'COMPLETED') {
       const newOrder = {
         buyer,
