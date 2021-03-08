@@ -1,0 +1,83 @@
+commit f0fa1f46582b194333a2826f20eaa659b24a41e5
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Mon Mar 8 14:59:14 2021 -0500
+
+    Agregada la direccion y mapa en succes
+
+commit 593e4a84331a5db421293f9611dd6b8dfe4530ee
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Mar 5 17:03:38 2021 -0500
+
+    Agregada al configuracion de google maps
+
+commit c49f429db5b89494330fae8a360180069f762e1f
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Mar 3 21:46:13 2021 -0500
+
+    Integracion de pagos con la API de PayPal
+
+commit 1b6b2c3ba3cf39381d4db148afa0cdc3a521bff9
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Mar 3 18:17:28 2021 -0500
+
+    Aplicando useRef en la pagina de Information para checkout
+
+commit 852eb916544eaa29fac421f46c617e63af10e308
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Mar 3 17:18:38 2021 -0500
+
+    useContext en la pagina de checkout
+
+commit 235a22e306817798f00286419d018df6c9210dc1
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Mar 3 16:40:53 2021 -0500
+
+    Implementando useContext
+
+commit d947d8dda0e774e2dc4f4e72797b8eced29c7c00
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Mar 3 15:17:30 2021 -0500
+
+    Creado el primer hook, context
+
+commit 56fa4ade1b0084bf96aa31d1cec8ef29b138238e
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Tue Mar 2 18:50:51 2021 -0500
+
+    Agregado el Link de React Router y los iconos con Fontawesome
+
+commit 87802e2164d016c7696728d60cd3fdc991884289
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Tue Mar 2 18:26:38 2021 -0500
+
+    Seccion de payment y success
+
+commit 00169a5501df80748aa10afae0f3b1138f083c8f
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Tue Mar 2 18:19:17 2021 -0500
+
+    Informacion del usuario
+
+commit e608af27aa62f2f35657daf64fbeb851c09e01c3
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Tue Mar 2 17:56:49 2021 -0500
+
+    Formulario de checkout
+
+commit dd8c68a68ec918a100acb4e5aefcd0f3e147fc17
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Tue Mar 2 13:08:33 2021 -0500
+
+    Lista de productos
+
+commit d6614471367a6c21b68533c664101753e8c06aec
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Mon Mar 1 18:04:49 2021 -0500
+
+    Maquetacion y estilos del home
+
+commit ccf9e2adbaac4d9ee12f0065d96667fa900cd651
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Feb 26 21:19:33 2021 -0500
+
+    first commit
